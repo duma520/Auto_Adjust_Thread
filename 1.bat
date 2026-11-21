@@ -1,0 +1,2 @@
+cls
+python Auto_Adjust_Thread.py
